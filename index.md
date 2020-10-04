@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: default
 ---
 <!-- This site was created in Webflow. http://www.webflow.com --><!-- Last Published: Thu Oct 01 2020 21:57:06 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-domain="hattie.webflow.io" data-wf-page="5f760487689352b10bcc42aa" data-wf-site="5f760487517a729440e74b00" data-wf-status="1">
